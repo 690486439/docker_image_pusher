@@ -1,6 +1,5 @@
 #支持私库
-docker.io/rancher/rancher-webhook:v0.4.2
-docker.io/rancher/rancher-agent:v2.8.0
+docker.io/jenkins/inbound-agent:3206.vb_15dcf73f6a_9-2
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
